@@ -330,8 +330,7 @@ a img {
 body {
 	-ms-word-wrap: break-word;
 	word-wrap:     break-word;
-	font-size: 18px;
-	font-size: 1.8rem;
+	font-size: 16px;
 	line-height: 1.6;
 }
 body,
